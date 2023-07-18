@@ -51,6 +51,7 @@ body{
 .product-img{
     box-shadow: 0 0 10px #c2a271;
     border-radius: 5px;
+
 }
 .table tbody tr td{
     font-weight: bold !important;

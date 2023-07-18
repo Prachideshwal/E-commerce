@@ -48,7 +48,7 @@ let MensWear = () => {
                                         <div className="container mt-3">
                                             <div className="row">
                                                 {
-                                                    products.map(product => {
+                                                       products.map(product => {
                                                         return (
                                                             <div className="col-md-3" key={product._id}>
                                                                 <div className="card">
